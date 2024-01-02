@@ -1,0 +1,19 @@
+.redboi {
+    background: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#blueboi {
+    color: blue;
+    font-size: 36px;
+}
+
+.coolboi {
+    font-size: 24px;
+}
+
+#greenboi {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
